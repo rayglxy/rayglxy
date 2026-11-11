@@ -5,6 +5,7 @@ Pre-university, working towards neuroengineering. Small computational neuroscien
 | Project | What it is |
 |---|---|
 | [spidy](https://github.com/rayglxy/spidy) | Hexapod driven by six spiking neurons, simulated in PyBullet |
+| [mi-bci-transfer](https://github.com/rayglxy/mi-bci-transfer) | Motor-imagery EEG decoding across days and people, with covariance re-centering |
 | [spike-sorting](https://github.com/rayglxy/spike-sorting) | Single-channel spike sorter benchmarked on synthetic recordings |
 | [adhd-eeg](https://github.com/rayglxy/adhd-eeg) | Band-power analysis of a public children's ADHD EEG dataset |
 | [hodgkin-huxley](https://github.com/rayglxy/hodgkin-huxley) | Hodgkin-Huxley model: firing thresholds and bistability |
